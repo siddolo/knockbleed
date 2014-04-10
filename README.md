@@ -1,7 +1,7 @@
 knockbleed
 ==========
 
-CVE-2014-0160 test scan against subdomains
+CVE-2014-0160 mass test against subdomains
 
 Requirement:
 * Knock Subdomain Scan by Gianni 'guelfoweb' Amato - https://github.com/guelfoweb/knock
